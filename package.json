@@ -1,0 +1,10 @@
+{
+  "name": "misenplace.node",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^4.7.0"
+  }
+}
