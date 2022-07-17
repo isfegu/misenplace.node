@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "lint": "eslint --ext .js --ext .ts",
+    "prepare": "husky install",
     "prettier:check": "prettier -c .",
     "prettier:write": "prettier -w ."
   },
@@ -13,6 +14,7 @@
     "@commitlint/config-conventional": "^17.0.3",
     "eslint": "^8.19.0",
     "eslint-config-prettier": "^8.5.0",
+    "husky": "^8.0.1",
     "prettier": "^2.7.1",
     "typescript": "^4.7.0"
   }
