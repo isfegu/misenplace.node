@@ -2,9 +2,13 @@
   "name": "misenplace.node",
   "version": "0.1.0",
   "private": true,
-  "scripts": {},
+  "scripts": {
+    "prettier:check": "prettier -c .",
+    "prettier:write": "prettier -w ."
+  },
   "dependencies": {},
   "devDependencies": {
+    "prettier": "^2.7.1",
     "typescript": "^4.7.0"
   }
 }
