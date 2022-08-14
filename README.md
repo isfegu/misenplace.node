@@ -42,7 +42,7 @@ Abre este proyecto (o el _[workspace](misenplace.node.code-workspace)_) en [Visu
 Abre una terminal desde dentro de Visual Studio Code y ejecuta:
 
 ```bash
-node ➜ /workspaces/misenplace.node (main) $ yarn
+$ yarn
 ```
 
 ### Adáptalo
