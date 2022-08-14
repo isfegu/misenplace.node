@@ -45,6 +45,10 @@ Abre una terminal desde dentro de Visual Studio Code y ejecuta:
 node ➜ /workspaces/misenplace.node (main) $ yarn
 ```
 
+### Adáptalo
+
+La configuración que traen [Prettier](.prettierrc), [ESlint]((.eslintrc.json), [Commitlint]((commitlint.config.js) y [Husky](./.husky) están a modo de ejemplo, adáptalo a tus necesidades.
+
 ## Contribuir
 
 Si encuentras útil este proyecto y quieres aportar tu granito de arena en mejorarlo, haz un _pull request_ con tu contribución, usando:
